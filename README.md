@@ -1,4 +1,5 @@
 ## GYM-WEB
+# This is a practice project of creating a website.
 
 - 倡導健身網站
 
@@ -8,9 +9,4 @@
 
 > 建立日期
 
-- hsian
 - 2022/5/21
-
-> 參考資料
-
-- 特殊符號
